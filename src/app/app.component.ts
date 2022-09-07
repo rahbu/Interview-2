@@ -12,4 +12,4 @@ export class AppComponent {}
 
 // 2. Set up app.component.ts as a form with three fields: area, total, and rate.  The area field should use the new custom component.
 
-// 3. Can you modify the form so that whenever either total or rate are modified, the other input switches according to the formula rate = total/area.
+// 3. Can you modify the form so that whenever either total or rate are modified, the other input switches according to the formula rate = total/area?
